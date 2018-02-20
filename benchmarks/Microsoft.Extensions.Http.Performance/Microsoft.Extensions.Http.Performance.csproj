@@ -16,7 +16,6 @@
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="$(BenchmarkDotNetPackageVersion)" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="$(MicrosoftExtensionsDependencyInjectionPackageVersion)" />
-    <PackageReference Include="Microsoft.AspNetCore.BenchmarkRunner.Sources" PrivateAssets="All" Version="$(MicrosoftAspNetCoreBenchmarkRunnerSourcesPackageVersion)" />
   </ItemGroup>
 
 </Project>
